@@ -1,0 +1,3 @@
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "ephemeral_explorer"}, "timestamp": 1705797497, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "soulful_morning"}, "timestamp": 1705842568, "user": null}
+{"operation": "create", "resource": {"type": "pipeline", "uuid": "summer_artificer"}, "timestamp": 1705859689, "user": null}
